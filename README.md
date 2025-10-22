@@ -1,2 +1,3 @@
 # Destroyer-PPM
-Esse projeto é a criação de uma gestão de projetos. Projeto com finalidade de estudo
+Esse projeto é a criação de uma ferramenta de gestão de projetos. 
+Faz parte do estudo do curso.dev.
